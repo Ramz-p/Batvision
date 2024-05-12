@@ -15,7 +15,7 @@ BatVision is a project inspired by Batman's vision enhancement technology, allow
 
 1. Clone the repository:
 
-git clone https://github.com/USERNAME/BatVision.git
+git clone https://github.com/Ramz-p/Batvision.git
 
 2. Install the required dependencies:
 
