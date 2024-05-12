@@ -44,3 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - BatVision icon: [Icon made by Ideogram](https://www.Ideogram.ai) from www.ideogram.ai
 - DeepAI Colorful Image Colorization API: [DeepAI](https://deepai.org/)
 - OpenCV: [OpenCV](https://opencv.org/)
+
+- ![Batvision](https://github.com/Ramz-p/Batvision/assets/74495857/c359c680-0c5b-46ad-8a44-af2f3d1092a8)
+
