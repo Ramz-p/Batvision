@@ -27,13 +27,17 @@ pip install -r requirements.txt
 
 cd BatVision
 
-2. Run the main script:
+2. Change the main script:
+
+use your own api key get it from "Deepai"
+
+3. Run the main script:
 
 python main.py
 
-3. Follow the on-screen instructions to choose between RGB to grayscale or grayscale to RGB conversion and provide the path to the image.
+4. Follow the on-screen instructions to choose between RGB to grayscale or grayscale to RGB conversion and provide the path to the image.
 
-4. View the converted image in a new window.
+5. View the converted image in a new window.
 
 ## License
 
